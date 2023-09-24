@@ -1,7 +1,7 @@
 - Hi i am bardhosh im interested in learning new things in java to develop my knowledge
 - I’m interested in doing internship on any company in Kosovo
 - I’m currently learning java OOP programming 
-- 💞️ I’m looking to collaborate with anyone who can help me
+-  I’m looking to collaborate with anyone who can help me
 -  How to reach me ...  bardhoshxhela22@gmail.com
 
 <!---
